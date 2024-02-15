@@ -13,10 +13,15 @@ Criar uma aplicação em uma linguagem de programação de sua preferência (cas
 
 ### git clone https://github.com/ediltonx/Desafio-Tunts.Rocks-2024.git ;  cd Desafio-Tunts.Rocks-2024/
 
-2 - instalar a biblioteca gspread com o comando abaixo:
+2 - instalar a biblioteca gspread com o comando abaia seguir:
 
 ### pip install -r requirements.txt
 
-3 - Executar o programa pelo terminal
+3 - Acessar a planilha do google através do link abaixo:
+
+### https://docs.google.com/spreadsheets/d/1U_H6zWQ-h2uo6YViEkH7o4NudN4rZv85Cil3R8tfyrs/edit?usp=sharing
+
+
+4 - Executar o programa pelo terminal
 
 ### python3 program.py
